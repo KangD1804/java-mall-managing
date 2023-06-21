@@ -1,0 +1,9 @@
+Phu Vo working at IT drives motorbike is parking for free
+Duong Pham working at CEO/COO?? drives car pay 30& for parking.
+Thanh Nguyen working at IT drives car is parking for free
+Khang Doan working at It drives motorbike is parking for free
+Dao Nguyen working at It drives motorbike pay 10$ for parking.
+Chinh Pham working at It drives motorbike pay 10$ for parking.
+Thao Le working at IT drives car is parking for free
+Total motorbike parking slots revenue from employee: 60.0
+Total car parking slots revenue from employee: 30.0

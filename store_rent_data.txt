@@ -1,0 +1,7 @@
+FAHASA at floor 1 is paying 6000.0
+Nhà Sách Phương Nam at floor 1 is paying 6000.0
+Thế Giới Di Động at floor 2 is paying 12000.0
+Tiệm đồ điện at floor 2 is paying 12000.0
+FoodStore at floor 2 is paying 12000.0
+Điện Máy Xanh at floor 2 is paying 12000.0
+Total income from store: 60000.0

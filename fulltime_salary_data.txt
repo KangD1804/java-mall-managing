@@ -1,0 +1,6 @@
+Ha Hoang working at Sales : 2456 (rest 4 days)
+Duong Pham working at CEO/COO?? : 4773 (rest 1 days)
+Anh Nguyen working at CAA : 2728 (rest 2 days)
+Dao Nguyen working at It : 144 (rest 21 days)
+Chinh Pham working at It : 3000 (rest 0 days)
+Total full time salaries: 13101.0
